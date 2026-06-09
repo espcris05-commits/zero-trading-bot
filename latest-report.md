@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 09-Jun-2026 13:00 CST
+**Date:** 09-Jun-2026 13:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- SELL FETUSDT @ $0.2022 (-6.00%)
-- BUY CHZUSDT @ $0.0285 (+6.81%)
-- SELL FTTUSDT @ $0.2901 (-10.57%)
+- SELL FETUSDT @ $0.2026 (-5.33%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- SELL STRAXUSDT @ $0.0082 (-7.06%)
+- SELL STRAXUSDT @ $0.0081 (-5.25%)
+- SELL WLDUSDT @ $0.5166 (-5.66%)
+- SELL JTOUSDT @ $0.6019 (-5.72%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
