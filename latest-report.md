@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 08-Jun-2026 19:00 CST
+**Date:** 08-Jun-2026 19:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- SELL BCHUSDT @ $204.3000 (-11.29%)
-- BUY FTTUSDT @ $0.3400 (+40.90%)
+- BUY ZECUSDT @ $446.4900 (+5.38%)
+- BUY CHZUSDT @ $0.0260 (+5.22%)
+- SELL BCHUSDT @ $205.0000 (-9.41%)
+- BUY FTTUSDT @ $0.3086 (+30.05%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY DEXEUSDT @ $21.6650 (+9.77%)
-- SELL FIDAUSDT @ $0.0221 (-15.17%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
