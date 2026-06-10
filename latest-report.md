@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 09-Jun-2026 18:00 CST
+**Date:** 09-Jun-2026 18:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- SELL ZECUSDT @ $430.0100 (-6.21%)
-- BUY CHZUSDT @ $0.0289 (+9.25%)
+- BUY CHZUSDT @ $0.0293 (+13.34%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY STGUSDT @ $0.3426 (+31.21%)
-- SELL ENAUSDT @ $0.0804 (-5.74%)
+- BUY STGUSDT @ $0.3515 (+33.96%)
+- BUY IOUSDT @ $0.1618 (+12.44%)
+- SELL HAEDALUSDT @ $0.0185 (-14.49%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
