@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 10-Jun-2026 16:30 CST
+**Date:** 10-Jun-2026 17:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- SELL XLMUSDT @ $0.1832 (-5.32%)
-- SELL FETUSDT @ $0.1848 (-8.11%)
-- SELL ZECUSDT @ $408.8700 (-7.87%)
-- SELL DASHUSDT @ $33.4700 (-6.35%)
-- SELL CHZUSDT @ $0.0262 (-8.77%)
+- SELL FETUSDT @ $0.1841 (-7.63%)
+- SELL CHZUSDT @ $0.0264 (-6.94%)
+- BUY UTKUSDT @ $0.0080 (+16.23%)
+- SELL NEARUSDT @ $1.9610 (-9.13%)
+- SELL INJUSDT @ $4.9300 (-10.79%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
