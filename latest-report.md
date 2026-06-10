@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 10-Jun-2026 12:30 CST
+**Date:** 10-Jun-2026 13:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
+- SELL XLMUSDT @ $0.1856 (-5.06%)
+- SELL ZECUSDT @ $427.5400 (-5.16%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- SELL INJUSDT @ $5.1380 (-8.02%)
-- BUY STRAXUSDT @ $0.0121 (+49.81%)
-- BUY STGUSDT @ $0.3882 (+33.63%)
-- BUY IDUSDT @ $0.0272 (+11.02%)
+- SELL NEARUSDT @ $2.0330 (-5.88%)
+- SELL INJUSDT @ $5.1440 (-8.29%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
