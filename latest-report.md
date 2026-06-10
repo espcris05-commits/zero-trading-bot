@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 09-Jun-2026 20:30 CST
+**Date:** 09-Jun-2026 21:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY CHZUSDT @ $0.0282 (+9.86%)
+- SELL XLMUSDT @ $0.1868 (-6.27%)
+- SELL DASHUSDT @ $34.3300 (-7.37%)
+- BUY CHZUSDT @ $0.0282 (+10.64%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY STGUSDT @ $0.3613 (+40.47%)
-- BUY IOUSDT @ $0.1667 (+14.97%)
-- SELL MOVEUSDT @ $0.0132 (-16.98%)
+- BUY STRAXUSDT @ $0.0101 (+27.71%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
