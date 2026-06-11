@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 10-Jun-2026 21:00 CST
+**Date:** 10-Jun-2026 21:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- SELL FETUSDT @ $0.1853 (-6.22%)
-- BUY CRVUSDT @ $0.2277 (+11.45%)
+- SELL FETUSDT @ $0.1865 (-6.28%)
+- SELL ZECUSDT @ $414.4200 (-5.34%)
+- SELL CHZUSDT @ $0.0266 (-5.36%)
+- BUY CRVUSDT @ $0.2333 (+13.47%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- SELL NEARUSDT @ $1.9660 (-8.22%)
-- SELL INJUSDT @ $4.9790 (-7.13%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
