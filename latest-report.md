@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 10-Jun-2026 23:00 CST
+**Date:** 10-Jun-2026 23:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY HIVEUSDT @ $0.0534 (+12.66%)
-- BUY CRVUSDT @ $0.2443 (+19.70%)
+- BUY HIVEUSDT @ $0.0521 (+7.42%)
+- BUY CRVUSDT @ $0.2399 (+16.85%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- SELL STRAXUSDT @ $0.0117 (-7.63%)
-- BUY STGUSDT @ $0.4351 (+28.39%)
+- BUY STGUSDT @ $0.4329 (+21.64%)
+- BUY IDUSDT @ $0.0314 (+30.29%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
