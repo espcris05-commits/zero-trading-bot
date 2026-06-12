@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 12-Jun-2026 07:00 CST
+**Date:** 12-Jun-2026 07:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY DEXEUSDT @ $21.8960 (+7.51%)
-- SELL FIDAUSDT @ $0.0227 (-14.92%)
-- BUY STGUSDT @ $0.6157 (+26.74%)
-- SELL IDUSDT @ $0.0304 (-10.85%)
+- BUY DEXEUSDT @ $21.4440 (+6.39%)
+- SELL FIDAUSDT @ $0.0230 (-9.15%)
+- BUY STGUSDT @ $0.6304 (+30.71%)
+- SELL IDUSDT @ $0.0305 (-19.74%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
