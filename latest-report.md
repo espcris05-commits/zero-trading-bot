@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 12-Jun-2026 05:00 CST
+**Date:** 12-Jun-2026 05:30 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY ATOMUSDT @ $1.9930 (+5.34%)
-- SELL JSTUSDT @ $0.0733 (-5.50%)
+- SELL JSTUSDT @ $0.0733 (-5.07%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY DEXEUSDT @ $20.9580 (+5.88%)
-- BUY STGUSDT @ $0.6386 (+33.52%)
+- BUY STGUSDT @ $0.6288 (+31.60%)
+- SELL IDUSDT @ $0.0307 (-5.83%)
+- BUY PYTHUSDT @ $0.0388 (+12.46%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
