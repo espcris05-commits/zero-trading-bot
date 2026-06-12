@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 12-Jun-2026 14:30 CST
+**Date:** 12-Jun-2026 15:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY ENJUSDT @ $0.0330 (+12.84%)
-- SELL CHZUSDT @ $0.0264 (-6.71%)
+- BUY ENJUSDT @ $0.0328 (+11.95%)
+- SELL CHZUSDT @ $0.0264 (-7.21%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY STGUSDT @ $0.6132 (+7.88%)
-- BUY SEIUSDT @ $0.0519 (+5.26%)
+- SELL HMSTRUSDT @ $0.0002 (-29.84%)
+- SELL LUMIAUSDT @ $0.0953 (-7.66%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
