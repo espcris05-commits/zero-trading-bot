@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 13-Jun-2026 02:30 CST
+**Date:** 13-Jun-2026 03:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY ENJUSDT @ $0.0324 (+11.17%)
+- BUY ENJUSDT @ $0.0330 (+12.33%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY RIFUSDT @ $0.0860 (+37.82%)
-- BUY ICPUSDT @ $2.3930 (+6.21%)
-- SELL DEXEUSDT @ $17.1680 (-17.93%)
+- SELL NEARUSDT @ $2.0250 (-5.59%)
+- BUY RIFUSDT @ $0.0919 (+44.95%)
+- BUY ICPUSDT @ $2.4380 (+8.16%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
