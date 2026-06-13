@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 12-Jun-2026 23:30 CST
+**Date:** 13-Jun-2026 00:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY ENJUSDT @ $0.0330 (+13.80%)
-- SELL CHZUSDT @ $0.0255 (-7.23%)
-- SELL CRVUSDT @ $0.2329 (-8.99%)
+- BUY ENJUSDT @ $0.0342 (+17.76%)
+- SELL CHZUSDT @ $0.0256 (-6.12%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- SELL INJUSDT @ $5.0630 (-7.79%)
+- SELL INJUSDT @ $5.0970 (-6.01%)
+- BUY ICPUSDT @ $2.4100 (+7.11%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
