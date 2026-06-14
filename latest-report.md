@@ -1,13 +1,13 @@
 # Zero Trading Bot - Daily Report
-**Date:** 13-Jun-2026 17:30 CST
+**Date:** 13-Jun-2026 18:00 CST
 **Paper Balance:** $1000.00
 
 ## Signals Generated Today
-- BUY FETUSDT @ $0.2086 (+12.45%)
+- BUY FETUSDT @ $0.2080 (+11.77%)
 - BUY UTKUSDT @ $0.0080 (+16.23%)
-- BUY NEARUSDT @ $2.1230 (+5.99%)
-- BUY FILUSDT @ $0.7860 (+5.36%)
-- BUY RIFUSDT @ $0.1252 (+54.95%)
+- BUY NEARUSDT @ $2.1280 (+5.87%)
+- BUY RIFUSDT @ $0.1236 (+54.89%)
+- BUY ICPUSDT @ $2.5060 (+9.24%)
 
 ## How to Get Real Signals
 Price: **$20 USD**
